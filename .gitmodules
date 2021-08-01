@@ -1,0 +1,6 @@
+[submodule "libc/MeatySkeleton"]
+	path = libc/MeatySkeleton
+	url = git@github.com:jumzzz/MeatySkeleton.git
+[submodule "MeatySkeleton"]
+	path = MeatySkeleton
+	url = git@github.com:jumzzz/MeatySkeleton.git
