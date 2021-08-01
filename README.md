@@ -9,11 +9,13 @@ Play around with OS Development.
 
 ## Setting Up the Initial libc
 
+- Used the content from gilesjohn/MeatySkeleton as a base. With minor modifications.
+
+
 ### Source:
 - http://wiki.osdev.org/Meaty_Skeleton
 
-### Note:
-- Straight up copy pasted the content from gilesjohn/MeatySkeleton
+
 
 ### Reference
 - wiki.osdev.org
