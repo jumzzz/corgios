@@ -16,6 +16,3 @@ Play around with OS Development.
 - http://wiki.osdev.org/Meaty_Skeleton
 
 
-
-### Reference
-- wiki.osdev.org
